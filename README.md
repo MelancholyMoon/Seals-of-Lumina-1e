@@ -2,6 +2,9 @@
 
 The LogSeq graphs of **Seals of Lumina (first edition)**, a brand-new TTRPG system written from scratch that features an innovative manual with tools for creating characters and campaigns, complete with original Project Lumina themed rules.
 
+The repository is currently almost empty because the project is still a WIP (Work In Progress). Real‑time changes and all files are kept in a private repository until the first release. If you want to learn more, you can join the official Project Lumina Discord server:
+https://discord.gg/qR6hWDKmfN
+
 ## How to download the manual
 
 The manual can be downloaded in two ways:
@@ -14,8 +17,7 @@ Use the official method for a quick, ready-to-read manual. Use the source method
 
 ## How to use the manual
 
-The main page from which you can access the manual is the **index**. It contains all references to pages and child blocks. You can easily find what you are looking for by chapter, or use the **search function** at the top left of the interface. To make the manual easier and more comfortable to consult, there are many links to term references, which are mainly located on the **glossary** page. If you want to read the manual from beginning to end, or simply move forward or back between pages, you can use the **page links** at the top or bottom of the manual pages. If you want to access references and content on the page more easily, you can hover your mouse over a reference and wait a few seconds to see a preview of the page, reference, or block. You can also left-click a link while holding Shift, this will open the selected page or block to the right at the same time.
-
+The main page from which you can access the manual is the **index**. It contains all references to pages and child blocks. You can easily find what you are looking for by chapter, or use the **search function** at the top left of the interface. You can also filter for pages or blocks by using the "/" symbol in the search. To make the manual easier and more comfortable to consult, there are many links to term references, which are mainly located on the **glossary** page. If you want to read the manual from beginning to end, or simply move forward or back between pages, you can use the **page links** at the top or bottom of the manual pages. If you want to access references and content on the page more easily, you can **hover** your mouse over a reference and wait a few seconds to see a preview of the page, reference, or block. You can also **left-click a link while holding Shift**, this will open the selected page or block to the right at the same time.
 
 ## Project Lumina
 
