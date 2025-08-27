@@ -5,6 +5,12 @@ The LogSeq graphs of **Seals of Lumina (first edition)**, a brand-new TTRPG syst
 The repository is currently almost empty because the project is still a WIP (Work In Progress). Real‑time changes and all files are kept in a private repository until the first release. If you want to learn more, you can join the official Project Lumina Discord server:
 https://discord.gg/qR6hWDKmfN
 
+## Project Lumina
+
+**Project Lumina** is the name of the narrative universe behind which we are developing multiple pieces of content and products. Project Lumina is an open project for everyone. Anyone can take part, provided they give credit to the creators, to the project itself, and, where applicable, to any products already developed, can make fan-made content and release it as part of the Project Lumina universe. We also plan to launch an official public wiki where anyone can request to add their own creations, characters and stories.
+
+**Seals of Lumina** is an official Project Lumina product, consequently, the events, species, universe structure, and the content within the manual are connected to Project Lumina and may appear again in other Project Lumina products.
+
 ## How to download the manual
 
 The manual can be downloaded in two ways:
@@ -18,12 +24,6 @@ Use the official method for a quick, ready-to-read manual. Use the source method
 ## How to use the manual
 
 The main page from which you can access the manual is the **index**. It contains all references to pages and child blocks. You can easily find what you are looking for by chapter, or use the **search function** at the top left of the interface. You can also filter for pages or blocks by using the "/" symbol in the search. To make the manual easier and more comfortable to consult, there are many links to term references, which are mainly located on the **glossary** page. If you want to read the manual from beginning to end, or simply move forward or back between pages, you can use the **page links** at the top or bottom of the manual pages. If you want to access references and content on the page more easily, you can **hover** your mouse over a reference and wait a few seconds to see a preview of the page, reference, or block. You can also **left-click a link while holding Shift**, this will open the selected page or block to the right at the same time.
-
-## Project Lumina
-
-**Project Lumina** is the name of the narrative universe behind which we are developing multiple pieces of content and products. Project Lumina is an open project for everyone. Anyone can take part, provided they give credit to the creators, to the project itself, and, where applicable, to any products already developed, can make fan-made content and release it as part of the Project Lumina universe. We also plan to launch an official public wiki where anyone can request to add their own creations, characters and stories.
-
-**Seals of Lumina** is an official Project Lumina product, consequently, the events, species, universe structure, and the content within the manual are connected to Project Lumina and may appear again in other Project Lumina products.
 
 ## Project status and releases
 
@@ -42,8 +42,9 @@ Thank you for helping the project! If you want to directly contribute to this pr
 3. Make changes and open a Pull Request (PR) to `main`.
 4. Use small, clear commits and explain your changes in the PR.
 5. If you change rules or balance, explain why and how it affects play.
-6. For translations, keep files organized. If your pull request modifies the manual in only one language (for example, Seals of Lumina 1e - en), mention this in the pull request.
-7. Keep language clear and consistent. Use existing formatting and link new terms to the glossary when appropriate.
+6. Use the [page structure document](PagesStructure.md) and follow instructions 
+8. Keep language clear and consistent. Use existing formatting and link new terms to the glossary when appropriate.
+7. For translations, keep files organized. If your pull request modifies the manual in only one language (for example, Seals of Lumina 1e - en), mention this in the pull request.
 
 To add your name to the contributors list:
 - Edit `CONTRIBUTORS.md` and add a line with your name and role.
