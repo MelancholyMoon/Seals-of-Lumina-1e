@@ -42,7 +42,7 @@ Thank you for helping the project! If you want to directly contribute to this pr
 3. Make changes and open a Pull Request (PR) to `main`.
 4. Use small, clear commits and explain your changes in the PR.
 5. If you change rules or balance, explain why and how it affects play.
-6. Use the [page structure document](PagesStructure.md) and follow instructions 
+6. Use the [Page Structure](PagesStructure.md) document and follow instructions 
 8. Keep language clear and consistent. Use existing formatting and link new terms to the glossary when appropriate.
 7. For translations, keep files organized. If your pull request modifies the manual in only one language (for example, Seals of Lumina 1e - en), mention this in the pull request.
 
