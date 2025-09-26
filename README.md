@@ -66,6 +66,8 @@ Copyright © 2023 Project Lumina - Coetus Interactive
 
 Copyright © 2025 Seals of Lumina- Coetus Interactive
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 This project is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License**. You are free to share and adapt the materials, as long as you give appropriate credit and distribute your contributions under the same license. If you reuse or modify material, include an attribution like: "Seals of Lumina and Project Lumina by Melancholy and Coetus Interactive, CC BY-SA 4.0" and note any changes you made. See the LICENSE file or visit https://creativecommons.org/licenses/by-sa/4.0/ for details.
 
 # Contributors
